@@ -1,4 +1,4 @@
 # New Project
 This Project was created from local system.
 
-Created by Sanjeev Kumar.
+Created by Sanjeev Kumar
